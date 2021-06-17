@@ -346,12 +346,12 @@
             <version>1.7.7</version>
             <type>jar</type>
         </dependency>
-        <dependency>
+    <!--    <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-log4j12</artifactId>
             <version>1.7.7</version>
             <type>jar</type>
-        </dependency>
+        </dependency>-->
     <dependency>
       <groupId>com.adobe.xmp</groupId>
       <artifactId>xmpcore</artifactId>
